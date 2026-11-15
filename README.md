@@ -15,7 +15,7 @@ The project will be migrated to **Unity (C#)** to implement advanced physics:
 ## Installation & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/alulattukasa26/quark-simulation
    cd quark-simulation
    ```
 2. Install dependencies:
@@ -24,5 +24,5 @@ The project will be migrated to **Unity (C#)** to implement advanced physics:
    ```
 3. Run the simulation:
    ```bash
-   python main.py
+   python src/main.py
    ```
